@@ -15,6 +15,9 @@ FEATURES:
 4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
+Password:
+akram
+
 # SCREENSHOTS
 MAIN SCREEN:
 ![Screenshot (9)](https://github.com/akramalsabri/FACE-RECOGNITION-ATTENDANCE-SYSTEM/blob/main/FACE%20RECOGNITION%20BASED%20ATTENDANCE%20MONITORING%20SYSTEM/img4.JPG)
